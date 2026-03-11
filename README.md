@@ -1,6 +1,6 @@
 Linux Assignment (2) 
 
-##Assignemnt Git (1)
+## Assignemnt Git (1)
 ### Steps followed 
 - Created Master branch
 - Added basic HTML File
