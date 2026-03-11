@@ -1,9 +1,7 @@
- 2) Linux Assignemnt 
+Linux Assignment (2) 
 
- 1) Assignemnt Git 
-
-
-## Steps followed 
+##Assignemnt Git (1)
+### Steps followed 
 - Created Master branch
 - Added basic HTML File
 - added and commited
