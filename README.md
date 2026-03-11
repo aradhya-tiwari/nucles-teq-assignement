@@ -1,6 +1,8 @@
-2) Linux Assignemnt 
+ 2) Linux Assignemnt 
 
-1) Assignemnt Git 
+ 1) Assignemnt Git 
+
+
 ## Steps followed 
 - Created Master branch
 - Added basic HTML File
